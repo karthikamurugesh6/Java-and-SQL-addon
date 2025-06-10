@@ -45,7 +45,7 @@ public class day3task2 {
     public static void main(String[] args) {
         FullTimeEmployee e1 = new FullTimeEmployee("jumana", 5000);
         PartTimeEmployee e2 = new PartTimeEmployee("ganga", 80, 20);
-        Freelancer e3 = new Freelancer("joshini", 60, 25, 300);
+        Freelancer e3 = new Freelancer("karthika", 60, 25, 300);
 
         e1.showSalary();
         e2.showSalary();
